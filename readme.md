@@ -18,5 +18,8 @@ Arquivos fonte para o resultado, estão na pasta `src`.
 
 ## Changelog
 
-- 1.0
+- 1.0.0
   - Página ainda com pouca responsividade às dimensões da janela do browser.
+- 1.1.0
+  - Altura das imagens dos botões das lojas de aplicativos normalizada para 90px.
+  - Melhor responsividade à telas pequenas.
