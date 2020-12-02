@@ -23,3 +23,5 @@ Arquivos fonte para o resultado, estão na pasta `src`.
 - 1.1.0
   - Altura das imagens dos botões das lojas de aplicativos normalizada para 90px.
   - Melhor responsividade à telas pequenas.
+- 1.2.0
+  - Animação CSS de 4 imagens representando algumas telas do instagram no app.
