@@ -10,9 +10,9 @@ Resultado da atividade **"Recriando a página inicial do Instagram"** de um boot
 >
 >Nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
 
-## Arquivos
+## Preview
 
-O resultado da atividade está dentro da pasta `dist`.
+O resultado da atividade está dentro da pasta `dist` e pode ser pré-visualizado [**neste endereço**](https://iraja-baltezan.github.io/201127-dio-instagram_login_page/dist/): https://iraja-baltezan.github.io/201127-dio-instagram_login_page/dist/.
 
 Arquivos fonte para o resultado, estão na pasta `src`.
 
